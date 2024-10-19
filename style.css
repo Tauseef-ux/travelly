@@ -87,7 +87,7 @@ nav ul{
 .hero{
     
     min-height: 90vh;
-    background: linear-gradient(rgba(0,0,0,0.5),transparent) ,url("../pexels-pixabay-210243.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5),transparent) ,url("./pexels-pixabay-210243.jpg");
     background-size: cover;
     color: white;  
     display: flex;
@@ -100,7 +100,7 @@ nav ul{
 
 #locations {
     min-height: 100vh;
-    background: url("../pexels-jonathan-lassen-2404669\ \(1\).jpg");
+    background: url("./pexels-jonathan-lassen-2404669\ \(1\).jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -206,7 +206,7 @@ nav ul{
 
 #contact{
     min-height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.5), transparent), url("../pexels-pixabay-326235.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5), transparent), url("./pexels-pixabay-326235.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
